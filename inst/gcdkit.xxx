@@ -1,0 +1,18 @@
+
+Working dir = C:/
+1 = blue
+2 = gray8
+3 = darkblue
+prompt = GCDkit->
+windowsBuffered = FALSE
+locatorBell = FALSE
+scipen = 20
+max.print = 99999999
+gcd.language = English
+gcd.plot.text = TRUE
+gcd.plot.bw = FALSE
+gcd.digits = 3
+gcd.shut.up = FALSE
+gcd.cex = 1
+gcd.menus = "" # possibilities are "", "win", "tcltk"
+

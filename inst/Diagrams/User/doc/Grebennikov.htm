@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Grebennikov (2014) 5Fe2O3t - Na2O+K2O - 5(CaO+MgO)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body>
+
+<table width="100%" summary="page for Grebennikov"><tr><td>Grebennikov</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Grebennikov (2014) 5Fe2O3t - Na2O+K2O - 5(CaO+MgO)</h2>
+
+<h3>Description</h3>
+
+<p>Assigns data for 
+<i>5Fe2O3t - Na2O+K2O - 5(CaO+MgO)</i>  
+ternary diagram into Figaro template (list '<code>sheet</code>') 
+and appropriate values into '<code>x.data</code>' and '<code>y.data</code>'.
+</p>
+
+
+<h3>Usage</h3>
+
+<pre>
+Grebennikov()
+</pre>
+
+
+<h3>Arguments</h3>
+
+<p>None.
+</p>
+
+
+<h3>Details</h3>
+
+<p>The ternary plot 
+<i>5Fe2O3t - Na2O+K2O - 5(CaO+MgO)</i>
+of <em>Grebennikov (2014)</em> 
+serves for classification of A-type granites and
+related felsic volcanic rocks (<i>SiO2</i> &gt; 67 wt.%). 
+</p>
+<p><img src="figures/Grebennikov.png" alt="Grebennikov.png" />
+
+</p>
+
+
+<h3>Value</h3>
+
+<table summary="R valueblock">
+<tr valign="top"><td><code>sheet</code></td>
+<td>
+<p>list with Figaro Style Sheet data</p>
+</td></tr>
+<tr valign="top"><td><code>x.data</code></td>
+<td>
+<p>x coordinates</p>
+</td></tr>
+<tr valign="top"><td><code>y.data</code></td>
+<td>
+<p>y coordinates</p>
+</td></tr>
+</table>
+
+
+<h3>Author(s)</h3>
+
+<p>Vojtech Janousek, <a href="mailto:vojtech.janousek@geology.cz">vojtech.janousek@geology.cz</a>
+</p>
+
+
+<h3>References</h3>
+
+<p>Grebennikov AV (2014) A-type granites and related rocks: petrogenesis and classification. 
+Russ Geol Geophys 55: 1353-1366
+<a href="http://dx.doi.org/10.1016/j.rgg.2014.08.003">doi: 10.1016/j.rgg.2014.08.003</a> 
+</p>
+
+
+<h3>See Also</h3>
+
+<p>figaro plotDiagram
+</p>
+
+
+<h3>Examples</h3>
+
+<pre>
+# plot the diagram
+# assuming a dataset is loaded, of course!
+## Not run:  
+plotDiagram("Grebennikov",FALSE,TRUE)
+
+## End(Not run)
+</pre>
+
+
+</body></html>

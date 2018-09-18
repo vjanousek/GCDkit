@@ -1,0 +1,37 @@
++ In command-line/batch mode, the GCDkit should run also operation systems other than Windows, 
+  notably Linux or Mac OSX. 
+
++ New Windows GUI installer based on Tcl/Tk (including also Windows 10, and people without 
+  administrative rights ;-)) 
+
++ User-defined templates for stand-alone Figaro plots or their plates. They can be uploaded into the
+  directory Diagrams/User and then employed for standard plotting (i.e. not classification)
+  purposes. This mechanism allows easy and fully automatic expansion of the plotting capabilities
+  of the GCDkit system. For further info, see the file @README.txt in the directory in question.
+
++ Functions allowing overplotting new datapoints onto standard single binary, ternary,
+  spiderplots or multiple plots, including the diagram templates (figOverplot, 
+  figOverplotDiagram, overplotDataset, underplotDataset). For plotting serves 
+  a reference dataset, either real-world data (say compiled from literature) or a numeric 
+  matrix spanning, for instance, from petrogenetic modelling.
+
++ New possibility of obtaining dataset by online search of the EarthChem.org database 
+
++ New plugin 'disclosure' for log-transformation of compositional data.
+
++ New geotectonic/general purpose diagrams:
+  - La/Yb vs. Nb/La and La/Yb vs. Th/Nb of Hollocher et al. (2012)
+  - La/10-Y/15-Nb/8 of Cabanis and Lecolle (1989)
+  - Zr/Y-Th/Yb of Ross and Bedard (2009)
+  - YbN vs. LaN/YbN of Martin (1986) to distinguish adakites and TTGs
+  - F-M-W diagram (Ohta and Arai 2007) for chemical weathering of igneous rocks
+  -  three binary plots for discrimination of lavas from destructive plate 
+     boundaries (Pearce 1982) 
+  - ternary plot for classification of A-type granites (Grebennikov 2014)
+  - binary plot of Paulick et al. (2006) to poretray the mantle peditotite fertility
+
++ Spanish translation of the classification plots (courtesy of Tomas Grijalva,
+  Geology Department of UNAM, Mexico)
+
+
+

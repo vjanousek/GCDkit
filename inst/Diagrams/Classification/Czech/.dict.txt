@@ -1,0 +1,350 @@
+########################################################
+# Translation by Jakub Trubac <jakub.trubac@gmail.com> #
+########################################################
+AFM	Tholeiite Series	Tholeiitová série
+AFM	Calc-alkaline Series	Vápenato-alkalická série
+AFM	AFM plot (Irvine and Baragar 1971)	AFM diagram (Irvine a Baragar 1971)
+CoxPlut	Quartz\ndiorite\n(granodiorite)	Kvarc\ndiorit\n(granodiorit)
+CoxPlut	Gabbro	Gabro
+CoxPlut	Syeno-\ndiorite	Syeno-\ndiorit
+CoxPlut	Nepheline\nsyenite	Nefelinický\nsyenit
+CoxPlut	nepheline syenite	nefelinický syenit
+CoxPlut	Ijolite	Ijolit
+CoxPlut	Alkaline	Alkalický
+CoxPlut	Subalkaline/Tholeiitic	Subalkalický/Tholeiitický
+CoxPlut	Syenite	Syenit
+CoxPlut	Undefined	nedefinováno
+CoxPlut	Ultrabasic	Ultrabazický
+CoxPlut	Basic	Bazický
+CoxPlut	Intermediate	Intermediální
+CoxPlut	Acid	Kyselý
+CoxPlut	Diorite	Diorit
+CoxPlut	Granite	Granit
+CoxVolc	Trachy-\nandesite	Trachy-\nandezit
+CoxVolc	Basaltic\nandesite	Bazaltický\nandezit
+CoxVolc	Benmoreite	Benmoreit
+CoxVolc	Phonolitic\nnephelinite	Fonolitický\nnefelinit
+CoxVolc	Phonolitic\ntephrite	Fonolitický\ntefrit
+CoxVolc	Basanite	Bazanit
+CoxVolc	Tephrite	Tefrit
+CoxVolc	Basalt	Bazalt
+CoxVolc	Alkaline	Alkalický
+CoxVolc	Subalkaline/Tholeiitic	Subalkalický/Tholeiitický
+CoxVolc	Ultrabasic	Ultrabazický
+CoxVolc	Basic	Bazický
+CoxVolc	Intermediate	Intermediální
+CoxVolc	Acid	Kyselý
+CoxVolc	Nephelinite	Nefelinit
+CoxVolc	Rhyolite	Ryolit
+CoxVolc	Dacite	Dacit
+CoxVolc	Andesite	Andezit
+CoxVolc	Trachyte	Trachyt
+CoxVolc	Mugearite	Mugearit
+CoxVolc	Phonolite	Fonolit
+CoxVolc	Hawaiite	Hawaiit
+DebonBA	Debon and Le Fort B-A	Debon and Le Fort B-A
+DebonPQ	Debon and Le Fort P-Q	Debon and Le Fort P-Q
+Hastie	Tholeiite\nSeries	Tholeiitová\nsérie
+Hastie	Calc-alkaline\nSeries	Vápenato-alkalická\nsérie
+Hastie	High-K calc-alkaline\nand Shoshonite Series	Vysoce-K alkalicko-vápenatá\na Šošonitická série
+Hastie	Co-Th plot (Hastie et al. 2007)	Co-Th diagram (Hastie et al. 2007)
+Jensen	High-Fe\ntholeiite\nbasalt	Vysoce-Fe\ntholeiitický\nbazalt
+Jensen	high-Fe tholeiite basalt	Vysoce-Fe tholeiitický bazalt
+Jensen	Andesite	Andezit
+Jensen	Dacite	Dacit
+Jensen	Rhyolite	Ryolit
+Jensen	High-Mg\ntholeiite\nbasalt	Vysoce-Mg\ntholeiitický\nbazalt
+Jensen	high-Mg tholeiite basalt	vysoce-Mg tholeiitický bazalt
+Jensen	Komatiitic\nbasalt	Komatiitický\nbazalt
+Jensen	Komatiite	Komatiit
+Jensen	TH	TH
+Jensen	CA	CA
+Jensen	KOMATIITE	KOMATIIT
+Jensen	Basalt	Bazalt
+LarochePlut	melteigite	melteigit
+LarochePlut	theralite	teralit
+LarochePlut	monzo\ndiorite	monzo\ndiorit
+LarochePlut	alkali\ngabbro	alkal.\ngabro
+LarochePlut	gabbro-norite	gabro-norit
+LarochePlut	ijolite	ijolit
+LarochePlut	essexite	essexit
+LarochePlut	syeno\nngabbro	syeno\ngabro
+LarochePlut	monzo\ngabbro	monzo\ngabro
+LarochePlut	gabbro\ndiorite	gabro\ndiorit
+LarochePlut	nepheline syenite	nefelinický syenit
+LarochePlut	syeno\ndiorite	syeno\ndiorit
+LarochePlut	quartz syenite	kvarc syenit
+LarochePlut	alkali granite	alkal. granit
+LarochePlut	quartz\nmonzonite	kvarc\nmonzonit
+LarochePlut	tonalite	tonalit
+LarochePlut	granite	granit
+LarochePlut	granodiorite	granodiorit
+LarochePlut	ultramafic rock	ultramaf. horniny
+LarochePlut	diorite	diorit
+LarochePlut	gabbro	gabro
+LarochePlut	syenite	syenit
+LarochePlut	R1-R2 plot (De la Roche et al. 1980)	Diagram R1-R2 (De la Roche et al. 1980)
+LarochePlut	monzo-\nnite	monzo-\nnit
+LarocheVolc	ankaratrite	ankaratrit
+LarocheVolc	basanite	bazanit
+LarocheVolc	alkali basalt	alkal. bazalt
+LarocheVolc	basalt	bazalt
+LarocheVolc	tholeiite	tholeiit
+LarocheVolc	nephelinite	nefelinit
+LarocheVolc	tephrite	tefrit
+LarocheVolc	hawaiite	hawaiit
+LarocheVolc	lati-\nbasalt	lati-\nbazalt
+LarocheVolc	andesi-\nbasalt	andez.\nbazalt
+LarocheVolc	phono-tephrite	fono-tefrit
+LarocheVolc	mugearite	mugearit
+LarocheVolc	lati-\nandesite	lati-\nandezit
+LarocheVolc	phonolite	fonolit
+LarocheVolc	trachy-\nphonolite	trachy-\nfonolit
+LarocheVolc	quartz\ntrachyte	kvarc\ntrachyt
+LarocheVolc	alkali rhyolite	alkalický ryolit
+LarocheVolc	quartz\nlatite	kvarc\nlatit
+LarocheVolc	dacite	dacit
+LarocheVolc	rhyolite	ryolit
+LarocheVolc	rhyodacite	ryodacit
+LarocheVolc	picritic rock	pikritic. hornina
+LarocheVolc	trachyte	trachyt
+LarocheVolc	andesite	andezit
+LarocheVolc	latite	latit
+LarocheVolc	R1-R2 plot (De la Roche et al. 1980)	Diagram R1-R2 (De la Roche et al. 1980)
+MiddlemostPlut	Af\nGranite	Až\nGranit
+MiddlemostPlut	Granite	Granit
+MiddlemostPlut	Af\nQtz\nSyenite	Až\nQtz\nSyenit
+MiddlemostPlut	Af\nSyenite	Až\nSyenit
+MiddlemostPlut	Qtz\nSyenite	Qtz\nSyenit
+MiddlemostPlut	Mz	Mz
+MiddlemostPlut	Qtz\nMonzonite	Qtz\nMonzonit
+MiddlemostPlut	Monzo\nd	Monzo\nd
+MiddlemostPlut	Qtz\nMonzodiorite	Qtz\nMonzodiorit
+MiddlemostPlut	Granodiorite	Granodiorit
+MiddlemostPlut	D,\nGb	D,\nGb
+MiddlemostPlut	Qtz\nDiorite	Qtz\nDiorit
+MiddlemostPlut	Tonalite	Tonalit
+MiddlemostPlut	Syenite	Syenit
+Miyashiro	Tholeiite Series	Tholeiitová série
+Miyashiro	Calc-alkaline\nSeries	Vápenato-alkalická\nsérie
+Miyashiro	calc-alkaline series	vápenato-alkalická série
+Miyashiro	SiO2-FeOt/MgO plot (Miyashiro 1974)	SiO2-FeOt/MgO diagram (Miyashiro 1974)
+NaAlK	Sodic	Sodný
+NaAlK	Potassic	Draselný
+NaAlK	Ultrapotassic	Ultradraselný
+NaAlK	Metaluminous\nPeraluminous	Metaluminický\nPeraluminický
+NaAlK	Peralkaline	Peralkalický
+NaAlK	Perpotassic	Perdraselný
+NaAlK	Molar Na2O-Al2O3-K2O plot	Molární diagram Na2O-Al2O3-K2O
+OConnorPlut	Trondhjemite	Trondhjemit
+OConnorPlut	Granite	Granit
+OConnorPlut	Quartz\nmonzonite	Kvarc\nmonzonit
+OConnorPlut	Granodiorite	Granodiorit
+OConnorPlut	Tonalite	Tonalit
+OConnorPlut	Feldspar triangle	Živcový ternární diagram
+OConnorVolc	Quartz\nkeratophyre	Køemenný\nkeratofyr
+OConnorVolc	Rhyolite	Ryolit
+OConnorVolc	Quartz\nlatite	Køemenný\nlatit
+OConnorVolc	Rhyodacite	Ryodacit
+OConnorVolc	Dacite	Dacit
+OConnorVolc	Feldspar triangle	Živcový ternární diagram
+Pearce1996	alkali\nbasalt	alkalický\nbazalt
+Pearce1996	foidite	foidit
+Pearce1996	basaltic andesite	basaltický andezit
+Pearce1996	andesite	andezit
+Pearce1996	trachy-\nandesite	trachy-\nandezit
+Pearce1996	tephriphonolite	tefrifonolit
+Pearce1996	trachyte	trachyt
+Pearce1996	phonolite	fonolit
+Pearce1996	alkali\nrhyolite	alkalický\nryolit
+Pearce1996	rhyolite	ryolit
+Pearce1996	dacite	dacit
+Pearce1996	basalt	bazalt
+Pearce1996	Nb/Y - Zr/Ti plot (modified by Pearce 1996)	Nb/Y - Zr/Ti diagram (modifikovaný Pearcem 1996)
+PeceTaylor	Tholeiite Series	Tholeiitová série
+PeceTaylor	High-K calc-alkaline\nSeries	Vysoce-draselná\nvápenato-alkalická\nsérie
+PeceTaylor	Calc-alkaline\nSeries	Vápenato-alkalická\nsérie
+PeceTaylor	Shoshonite Series	Šošonitická série
+PeceTaylor	SiO2-K2O plot (Peccerillo and Taylor 1976)	Diagram SiO2-K2O (Pecerillo a Taylor 1976)
+QAPFPlut	diorite, gabbro	diorit, gabro
+QAPFPlut	tonalite	tonalit
+QAPFPlut	quartzolite	kvarcolit
+QAPFPlut	quartz-rich\ngranitoid	køemenem-bohatý\ngranitoid
+QAPFPlut	alk-fsp.granite	alk-živ.granit
+QAPFPlut	syeno-\ngranite	syeno-\ngranit
+QAPFPlut	monzo-\ngranite	monzo-\ngranit
+QAPFPlut	grano-\ndiorite	grano-\ndiorit
+QAPFPlut	q-alk-fsp\nsyenite	0
+QAPFPlut	quartz-\nsyenite	kvarc\nsyenit
+QAPFPlut	quartz-\nmonzonite	kvarc-\nmonzonit
+QAPFPlut	q-monzodiorite\nq-monzogabbro	q-monzodiorit\nq-monzogabro
+QAPFPlut	q-diorite\nq-gabbro\nq-anorthosite	kvarcdiorit\nkvarcgabro\nkvarcanort.
+QAPFPlut	alkali-feldspar\nsyenite	alkalicko-živcový\nsyenit
+QAPFPlut	foid-bearing\nsyenite	syenit\ns foidy
+QAPFPlut	foid-bearing\nmonzonite	monzonit\ns foidy
+QAPFPlut	foid-syenite	foidový syenit
+QAPFPlut	foid-\nmonzosyenite	foidový\nmonzosyenit
+QAPFPlut	foid-\nmonzodiorite\nmonzogabbro	foidový\nmonzodiorit\nmonzogabro
+QAPFPlut	foid-diorite/foid-gabbro	foidový diorit/foidové gabro
+QAPFPlut	foidolite	foidolit
+QAPFPlut	foid-bearing-\nalkali-feldspar-syenite	alk.-živcový\nsyenit s foidy
+QAPFPlut	foid-bearing-monzodiorite\nfoid-bearing-monzogabbro	monzodiorit s foidy\nmonzogabro s foidy
+QAPFPlut	foid-bearing diorite\nfoid-bearing gabbro\nfoid-bearing anorthosite	diorit s foidy\ngabro s foidy\nanortozit s foidy
+QAPFPlut	syenite	syenit
+QAPFPlut	monzonite	monzonit
+QAPFPlut	monzodiorite\nmonzogabbro	monzodiorit\nmonzogabro
+QAPFPlut	QAPF diagram - Si oversaturated	QAPF diagram - Si nasycené horniny
+QAPFPlut	QAPF diagram - Si undersaturated	QAPF diagram - Si nenasycené horniny
+QAPFVolc	alk-fsp.rhyolite	alk-živ.ryolit
+QAPFVolc	q-alk-fsp\ntrachyte	alk-živ.\ntrachyt
+QAPFVolc	quartz-\ntrachyte	kvarc-\ntrachyt
+QAPFVolc	quartz-\nlatite	kvarc-\nlatit
+QAPFVolc	basalt\nandesite	bazalt\nandezit
+QAPFVolc	alkali-feldspar\ntrachyte	alkalicko-\nživcový\ntrachyt
+QAPFVolc	foid-bearing\ntrachyte	trachyt\ns foidy
+QAPFVolc	foid-bearing-\nlatite	latit\ns foidy
+QAPFVolc	tephritic\nphonolite	tefritický\nfonolit
+QAPFVolc	phonolitic\nbasanite/tephrite	fonolitický\nbazanit/tefrit
+QAPFVolc	basanite/tephrite	bazanit/tefrit
+QAPFVolc	phonolitic\nfoidite	fonolitický\nfoidit
+QAPFVolc	tephritic\nfoidite	tefritický\nfoidit
+QAPFVolc	foidite	foidit
+QAPFVolc	foid-bearing-\nalkali-feldspar-trachyte	alkalicko-živcový\ntrachyt s foidy
+QAPFVolc	rhyolite	ryolit
+QAPFVolc	trachyte	trachyt
+QAPFVolc	dacite	dacit
+QAPFVolc	phonolite	fonolit
+QAPFVolc	latite	latit
+QAPFVolc	QAPF diagram - Si oversaturated	QAPF diagram - Si nasycené horniny
+QAPFVolc	QAPF diagram - Si undersaturated	QAPF diagram - Si nenasycené horniny
+Shand	Metaluminous	Metaluminický
+Shand	Peraluminous	Peraluminický
+Shand	Peralkaline	Peralkalický
+Shand	A/CNK-A/NK plot (Shand 1943)	A/CNK-A/NK diagram (Shand 1943)
+Shand	Undefined	nedefinováno
+TAS	Picrobasalt	Pikrobazalt
+TAS	Basaltic\nandesite	Bazaltický\nandezit
+TAS	Trachyte	Trachyt
+TAS	Trachydacite	Trachydacit
+TAS	Basaltic\ntrachy-\nandesite	Bazaltický\ntrachy-\nandezit
+TAS	Trachy-\nandesite	Trachy-\nandezit
+TAS	Trachy-\nbasalt	Trachy-\nbazalt
+TAS	Phono-\ntephrite	Fono-\ntefrit
+TAS	phonotephrite	fonotefrit
+TAS	Tephri-\nphonolite	Tefri-\nfonolit
+TAS	Foidite	Foidit
+TAS	Basalt	Bazalt
+TAS	Alkaline	Alkalický
+TAS	Subalkaline/Tholeiitic	Subalkalický/Tholeiitický
+TAS	Ultrabasic	Ultrabazický
+TAS	Basic	Bazický
+TAS	Intermediate	Intermediální
+TAS	Acid	Kyselý
+TAS	Andesite	Andezit
+TAS	Dacite	Dacit
+TAS	Rhyolite	Ryolit
+TAS	Tephrite	Tefrit
+TAS	Basanite	Bazanit
+TAS	Phonolite	Fonolit
+_TASadd	hawaiite	hawaiit
+_TASadd	shoshonite	šošonit
+_TASadd	mugearite	mugearit
+_TASadd	trachybasalt	trachybazalt
+_TASadd	basaltic trachyandesite	bazaltický trachyandezit
+_TASadd	trachyandesite	trachyandezit
+_TASadd	latite	latit
+_TASadd	benmoreite	benomoreit
+_TASadd	boninite	boninit
+_TASadd	picrite	pikrit
+_TASadd	komatiite	komatiit
+_TASadd	meimechite	mejmeèit
+_TASadd	K-rich	K-bohatý
+TASMiddlemostPlut	Peridot\ngabbro	Peridot\ngabro
+TASMiddlemostPlut	Gabbroic\ndiorite	Gabro\ndiorit
+TASMiddlemostPlut	Granodiorite	Granodiorit
+TASMiddlemostPlut	Granite	Granit
+TASMiddlemostPlut	Quartz\nmonzonite	Kvarc\nmonzonit
+TASMiddlemostPlut	Monzonite	Monzonit
+TASMiddlemostPlut	Monzo\ndiorite	Monzo\ndiorit
+TASMiddlemostPlut	Monzo-\ngabbro	Monzo-\ngabro
+TASMiddlemostPlut	Foid\ngabbro	Foiditické\ngabro
+TASMiddlemostPlut	Foid\nmonzo-\ngabbro	Foiditické\nmonzo-\ngabro
+TASMiddlemostPlut	Foid\nmonzo-\nsyenite	Foiditický\nmonzo-\nsyenit
+TASMiddlemostPlut	Foid\nsyenite	Foiditický\nsyenit
+TASMiddlemostPlut	Foidolite	Foidolit
+TASMiddlemostPlut	Tawite/Urtite/Italite	Tawit/Urtit/Italit
+TASMiddlemostPlut	Quartzolite	Quartzolit
+TASMiddlemostPlut	Syenite	Syenit
+TASMiddlemostPlut	Gabbro	Gabro
+TASMiddlemostPlut	Diorite	Diorit
+TASMiddlemostPlut	Alkaline	Alkalický
+TASMiddlemostPlut	Subalkaline/Tholeiitic	Subalkalický/Tholeiitický
+TASMiddlemostPlut	Ultrabasic	Ultrabazický
+TASMiddlemostPlut	Basic	Bazický
+TASMiddlemostPlut	Intermediate	Intermediální
+TASMiddlemostPlut	Acid	Kyselý
+TASMiddlemostPlut	TAS diagram for plutonites (Middlemost 1994)	TAS diagram pro plutonity (Middlemost 1994)
+TASMiddlemostVolc	Phonolite	Fonolit
+TASMiddlemostVolc	Picro-\nbasalt	Pikro-\nbazalt
+TASMiddlemostVolc	Basaltic\nandesite	Bazaltický\nandezit
+TASMiddlemostVolc	Andesite	Andezit
+TASMiddlemostVolc	Dacite	Dacit
+TASMiddlemostVolc	Rhyolite	Ryolit
+TASMiddlemostVolc	Trachyte	Trachyt
+TASMiddlemostVolc	Trachy-\ndacite	Trachy-\ndacit
+TASMiddlemostVolc	Trachy-\nandesite	Trachy-\nandezit
+TASMiddlemostVolc	Basaltic\ntrachy-\nandesite	Bazaltický\ntrachy-\nandezit
+TASMiddlemostVolc	Trachy-\nbasalt	Trachy-\nbazalt
+TASMiddlemostVolc	Tephrite	Tefrit
+TASMiddlemostVolc	Phono-\ntephrite	Fono-\ntefrit
+TASMiddlemostVolc	Tephri-\nphonolite	Tefri-\nfonolit
+TASMiddlemostVolc	Foidite	Foidit
+TASMiddlemostVolc	Sodalitite/Nephelinolith/Leucitolith	Sodalitit/Nefelinolit/Leucitolit
+TASMiddlemostVolc	Silexite	Silexit
+TASMiddlemostVolc	Basalt	Bazalt
+TASMiddlemostVolc	Alkaline	Alkalický
+TASMiddlemostVolc	Subalkaline/Tholeiitic	Subalkalický/Tholeiitický
+TASMiddlemostVolc	Ultrabasic	Ultrabazický
+TASMiddlemostVolc	Basic	Bazický
+TASMiddlemostVolc	Intermediate	Intermediální
+TASMiddlemostVolc	Acid	Kyselý
+TASMiddlemostVolc	TAS diagram for volcanics (Middlemost 1994)	TAS diagram pro vulkanity (Middlemost 1994)
+Villaseca	Metaluminous	Metaluminický
+Villaseca	Peraluminous	Peraluminický
+Villaseca	h-P	vysoce-P
+Villaseca	m-P	støednì-P
+Villaseca	l-P	nízko-P
+Villaseca	B-A plot (modified by Villaseca et al. 1998)	B-A diagram (modifikovaný Villasecou et al. 1998)
+Villaseca	Undefined	nedefinováno
+WinFloyd1	Phonolite	Fonolit
+WinFloyd1	Trachyte	Trachyt
+WinFloyd1	Rhyolite	Ryolit
+WinFloyd1	Andesite/Basalt	Andezit/Bazalt
+WinFloyd1	Rhyo-\ndacite	Ryo-\ndacit
+WinFloyd1	Rhyodacite	Ryodacit
+WinFloyd1	Dacite	Dacit
+WinFloyd1	SubAlkaline Basalt	Subalkalický Bazalt
+WinFloyd1	Trachy-\nandesite	Trachy-\nandezit
+WinFloyd1	Alk-Bas	Alk-Baz
+WinFloyd1	Comendite/Pantellerite	Comendit/Pantellerit
+WinFloyd1	Comendite\nPantellerite	Comendit\nPantellerit
+WinFloyd1	Andesite	Andezit
+WinFloyd1	Nb/Y - Zr/TiO2 plot (Winchester and Floyd 1977)	Nb/Y - Zr/TiO2 diagram (Winchester a Floyd 1977)
+WinFloyd2	Basanite/Nephelinite	Bazanit/Nefelinit
+WinFloyd2	Basanite\nNephelinite	Bazanit\nNefelinit
+WinFloyd2	Phonolite	Fonolit
+WinFloyd2	Trachyte	Trachyt
+WinFloyd2	Rhyolite	Ryolit
+WinFloyd2	Rhyo-\ndacite	Ryo-\ndacit
+WinFloyd2	Rhyodacite	Ryodacit
+WinFloyd2	Dacite	Dacit
+WinFloyd2	Andesite	Andezit
+WinFloyd2	SubAB	SubAB
+WinFloyd2	TrAn	TrAn
+WinFloyd2	AB	AB
+WinFloyd2	Comendite/Pantellerite	Comendit/Pantellerit
+WinFloyd2	Comendite\nPantellerite	Comendit\nPantellerit
+WinFloyd2	Basanite/Trachybasanite/Nephelinite	Bazanit/Trachybazanit/Nefelinit
+WinFloyd2	Basanite\nTrachybasanite\nNephelinite	Bazanit\nTrachybazanit\nNefelinit
+WinFloyd2	Andesite	Andezit
+WinFloyd2	Zr/TiO2 - SiO2 plot (Winchester and Floyd 1977)	Zr/TiO2 - SiO2 diagram (Winchester a Floyd 1977)
